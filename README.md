@@ -1,10 +1,10 @@
 # Does GCL Need a Large Number of Negative Samples? Enhancing Graph Contrastive Learning with Effective and Efficient Negative Sampling (AAAI 2025)
 
-The official source code for Does GCL Need a Large Number of Negative Samples? Enhancing Graph Contrastive Learning with Effective and Efficient Negative Sampling
+The official source code for "Does GCL Need a Large Number of Negative Samples? Enhancing Graph Contrastive Learning with Effective and Efficient Negative Sampling".
 
 
 
-Part of code is referenced from [Deep Graph Contrastive Representation Learning](https://github.com/CRIPAC-DIG/GRACE) and [PyGCL: A PyTorch Library for Graph Contrastive Learning]([PyGCL/PyGCL: PyGCL: A PyTorch Library for Graph Contrastive Learning](https://github.com/PyGCL/PyGCL))
+Part of code is referenced from [Deep Graph Contrastive Representation Learning](https://github.com/CRIPAC-DIG/GRACE) and [PyGCL: A PyTorch Library for Graph Contrastive Learning](https://github.com/PyGCL/PyGCL))
 
 
 
